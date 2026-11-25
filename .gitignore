@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+*.xcuserstate
+# Extra reference circuits kept on the developer's machine only.
+Tests/VoacapTests/Reference/local/
